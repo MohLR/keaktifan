@@ -10,11 +10,11 @@ Setiap mahasiswa hanya perlu mencatat keaktifannya satu poin per hari.
 | 3  | 5111740000026 | HISAM WIDI PRAYOGA              |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 4  | 5111740000027 | SAFHIRA MAHARANI                |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 5  | 5111740000035 | MUHAMMAD IZZUDDIN AL ISLAMI     |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
-| 6  | 5111740000038 | MOHAMMAD LUTHFI RAHMATULLAH     |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
-| 7  | 5111740000042 | ANNAS NURIL IMAN                |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
+| 6  | 5111740000038 | MOHAMMAD LUTHFI RAHMATULLAH     |   |   |   |   |   |   |   | 1 |   |    |    |    |    |    |    |
+| 7  | 5111740000042 | ANNAS NURIL IMAN                |   |   |   |   |   |   |   |   |   |  1 |    |    |    |    |    |
 | 8  | 5111740000048 | KRISNA BADRU WIJAYA             |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 9  | 5111740000049 | YEMIMA SUTANTO                  |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
-| 10 | 5111740000058 | CELIA CHINTARA YUWINE           |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
+| 10 | 5111740000058 | CELIA CHINTARA YUWINE           |   |   |   |   |   |   |   |   |   |  1 |    |    |    |    |    |
 | 11 | 5111740000067 | MUHAMMAD IQBAL IMANI ATFAN      |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 12 | 5111740000071 | BRYAN KHUFA RAHMADA AULA        |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 13 | 5111740000072 | AMMAR DWI ANWARI                |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
@@ -31,12 +31,12 @@ Setiap mahasiswa hanya perlu mencatat keaktifannya satu poin per hari.
 | 24 | 5111740000096 | ARINO JENYNOF                   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 25 | 5111740000106 | MUHAMMAD FAWWAZ ZUHDAN NAUVALI  |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 26 | 5111740000118 | FANDY KUNCORO ADIANTO           |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
-| 27 | 5111740000120 | RANGGA KUSUMA DINATA            |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
+| 27 | 5111740000120 | RANGGA KUSUMA DINATA            |   |   |   |   |   |   |   | 1 |   |    |    |    |    |    |    |
 | 28 | 5111740000124 | FURQAN ALIYUDDIEN               |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 29 | 5111740000127 | ELKANA HANS WIDERSEN            |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 30 | 5111740000128 | AHMAD YAHYA ABDUL AZIZ          |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 31 | 5111740000135 | I GEDE AGUNG KRISNA PAMUNGKAS   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
-| 32 | 5111740000137 | NADHIF HAIKAL FARHANSYAH        |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
+| 32 | 5111740000137 | NADHIF HAIKAL FARHANSYAH        |   |   |   |   |   |   |   | 1 |   |    |    |    |    |    |    |
 | 33 | 5111740000147 | AHMAD FIRDAUS                   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 34 | 5111740000149 | AYU MUTIARA SARI                |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 35 | 5111740000167 | HARITS SUDHARSONO MOZART        |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
